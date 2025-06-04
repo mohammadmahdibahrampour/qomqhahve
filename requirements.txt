@@ -1,0 +1,5 @@
+Django>=5.2,<5.3
+wagtail>=7.0,<7.1
+python-dotenv
+pre-commit
+psycopg2-binary
